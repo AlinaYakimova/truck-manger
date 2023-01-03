@@ -1,0 +1,1 @@
+export {default} from "./driver_card.vue";
